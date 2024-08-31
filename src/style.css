@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Now+Display:wght@400;700&display=swap');
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Helvetica Now Display', sans-serif;
+}
+
+#root{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
